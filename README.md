@@ -35,5 +35,6 @@ mpg_data =  (6.267)vehicle_length + (1.245e-03)vehicle_weight + (6.877e-02)spoil
 
 ## Deliverable 2: Summary Statistic on Suspension Coils
 
+![total_summary_del2.png](https://github.com/LucyPill/MechaCar_Statistica_Analysis/blob/main/Images/total_summary_del2.png)
 
-
+![lot_summary_del2.png](https://github.com/LucyPill/MechaCar_Statistica_Analysis/blob/main/Images/lot_summary_del2.png)
