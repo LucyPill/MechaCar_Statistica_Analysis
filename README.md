@@ -72,9 +72,15 @@ As shown in the lot_summary, we can see that lots 1 & 2 meet the design specific
 Gas prices again reached a new peak, and in California the gallon of gas ranges between $5.479 and $6.524 depending on the county. Nowadays, thinking about fuel efficiency is a common topic and that is why I decided to compare the fuel effeciency of city vs Highway.
 
 ### Metrics to test:
-* city and highway fuel efficiency
+* City and Highway fuel efficiency
 
-* Null Hypothesis: Cars in the same category have the same fuel efficiency
-* Alternative Hyposthesi: 
-What statistical test would you use to test the hypothesis? And why?
+### Null Hypothesis:
+* Cars in the same vehicle category have the same fuel efficiency
+
+### Alternative Hyposthesis: 
+* Cars in the same vehicle category do not have the same fuel efficency
+
+### Statistical Test:
+* one-way-ANOVA for both the MechaCar and for the competition. In this case, a one-way-ANOVA is a good statistical test because we areusing a single factor and that is the fuel efficiency and we are investigating its variation between MechaCar prototype and that of the competition
+
 What data is needed to run the statistical test?
