@@ -70,7 +70,9 @@ As shown in the lot_summary, we can see that lots 1 & 2 meet the design specific
 
 ## Deliverable 4: MechaCar vs Competition - Study Design (City vs Highway fuel efficiency)
 Gas prices again reached a new peak, and in California the gallon of gas ranges between $5.479 and $6.524 depending on the county. Nowadays, thinking about fuel efficiency is a common topic and that is why I decided to compare the fuel effeciency of city vs Highway.
+
 * As I mentioned above the metrics I will be testing are: city and hihway fuel efficiency
-What is the null hypothesis or alternative hypothesis?
+
+* Null Hypothesis: 
 What statistical test would you use to test the hypothesis? And why?
 What data is needed to run the statistical test?
