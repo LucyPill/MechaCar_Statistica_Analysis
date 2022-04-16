@@ -69,3 +69,4 @@ As shown in the lot_summary, we can see that lots 1 & 2 meet the design specific
 ![t-test_lot3_del3.png](https://github.com/LucyPill/MechaCar_Statistica_Analysis/blob/main/Images/t-test_lot3_del3.png)
 
 ## Deliverable 4: Design a Study Comparing the MechaCar to the Competition
+Using your knowledge of R, design a statistical study to compare performance of the MechaCar vehicles against performance of vehicles from other manufacturers.
