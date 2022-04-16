@@ -64,5 +64,6 @@ As shown in the lot_summary, we can see that lots 1 & 2 meet the design specific
 ![t-test_lot2_del3.png](https://github.com/LucyPill/MechaCar_Statistica_Analysis/blob/main/Images/t-test_lot2_del3.png)
 
 ### Lot#3:
-* A p-value of 0.04168 tells us to reject the null hypothesis and therefore we know that there is a statistical difference between the psi of lot3 mean of 1496.14 and the population mean 1500 psi.
+* A p-value of 0.04168 reject the null hypothesis/there is a statistical difference between the psi of lot3 mean of 1496.14 and the population mean 1500 psi.
+
 ![t-test_lot3_del3.png](https://github.com/LucyPill/MechaCar_Statistica_Analysis/blob/main/Images/t-test_lot3_del3.png)
