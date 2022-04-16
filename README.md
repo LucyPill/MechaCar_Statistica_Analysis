@@ -11,3 +11,5 @@ We will use R programing language to do this analysis and provide the following:
 3. Interpretation of the statistical test results
 
 Finally, we will use our critical thinking skills to propose our own study design, hypothesis, and analysis workflow in order to make AutosRUs manufacturing process better.
+
+
