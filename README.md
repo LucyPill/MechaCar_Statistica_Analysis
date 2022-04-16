@@ -52,6 +52,7 @@ When looking at the combined stats for all the three lots, we can see that the p
 
 ![three_lots_del3.png](https://github.com/LucyPill/MechaCar_Statistica_Analysis/blob/main/Images/three_lots_del3.png)
 
+### Lot1: 
 ![t-test_lot1_del3.png](https://github.com/LucyPill/MechaCar_Statistica_Analysis/blob/main/Images/t-tes_lot1_del3.png)
 
 ![t-test_lot2_del3.png](https://github.com/LucyPill/MechaCar_Statistica_Analysis/blob/main/Images/t-test_lot2_del3.png)
