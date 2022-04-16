@@ -68,7 +68,7 @@ As shown in the lot_summary, we can see that lots 1 & 2 meet the design specific
 
 ![t-test_lot3_del3.png](https://github.com/LucyPill/MechaCar_Statistica_Analysis/blob/main/Images/t-test_lot3_del3.png)
 
-## Deliverable 4: MechaCar vs Competition - Study Design (City vs Highway fuel efficiency)
+## Deliverable 4: MechaCar vs Competition - Study Design (fuel efficiency)
 Gas prices again reached a new peak, and in California the gallon of gas ranges between $5.479 and $6.524 depending on the county and this is according to AAA. Nowadays, thinking about fuel efficiency is a common topic and that is why I decided do an analysis on the fuel effeciency of city and Highway.
 
 ### Metrics to test:
