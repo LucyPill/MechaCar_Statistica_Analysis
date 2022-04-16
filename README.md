@@ -20,6 +20,12 @@ mpg_data =  (6.267)vehicle_length + (1.245e-03)vehicle_weight + (6.877e-02)spoil
 ![linear_regression.png](https://github.com/LucyPill/MechaCar_Statistica_Analysis/blob/main/Images/linear_regression.png)
 
 
-Let's take a look at the summary statistics
+### Let's take a look at the summary statistics: 
+
+Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+
+Is the slope of the linear model considered to be zero? Why or why not?
+
+Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
 ![lm_summary_stats.png](https://github.com/LucyPill/MechaCar_Statistica_Analysis/blob/main/Images/lm_summary_stats.png)
