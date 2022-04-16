@@ -47,3 +47,11 @@ As shown in the lot_summary, we can see that lots 1 & 2 meet the design specific
 ![lot_summary_del2.png](https://github.com/LucyPill/MechaCar_Statistica_Analysis/blob/main/Images/lot_summary_del2.png)
 
 ## Deliverable 3: T-Tests on Suspension Coils
+
+![three_lots_del3.png](https://github.com/LucyPill/MechaCar_Statistica_Analysis/blob/main/Images/three_lots_del3.png)
+
+![t-test_lot1_del3.png](https://github.com/LucyPill/MechaCar_Statistica_Analysis/blob/main/Images/t-tes_lot1_del3.png)
+
+![t-test_lot2_del3.png](https://github.com/LucyPill/MechaCar_Statistica_Analysis/blob/main/Images/t-test_lot2_del3.png)
+
+![t-test_lot3_del3.png](https://github.com/LucyPill/MechaCar_Statistica_Analysis/blob/main/Images/t-test_lot3_del3.png)
