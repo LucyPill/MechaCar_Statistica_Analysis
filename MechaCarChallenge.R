@@ -29,3 +29,25 @@ total_summary
 # Create a lot_summary dataframe using the group_by() and the summarize() functions to group each manufacturing lot by the mean, median, variance, and standard deviation of the suspension coil’s PSI column
 lot_summary <- Coil_data %>% group_by(Manufacturing_Lot) %>% summarize(Mean=mean(PSI),Medain=median(PSI),Variance = var(PSI), SD = sd(PSI),  .groups = 'keep')
 lot_summary
+
+#################### Deliverable 3: T-Tests on Suspension Coils ################################
+
+# write an RScript using the t.test() function to determine if the PSI across all manufacturing lots is statistically different from the population mean of 1,500 pounds per square inch.
+t.test(Coil_data$PSI, mu = 1500)
+
+# Write three more RScripts in your MechaCarChallenge.RScript using the t.test() function and its subset() argument to determine
+# if the PSI for each manufacturing lot is statistically different from the population mean of 1,500 pounds per square inch
+
+#Lot 1
+t.test(subset(Coil_data,Manufacturing_Lot == "Lot1")$PSI, mu = 1500)
+
+#Lot 2
+t.test(subset(Coil_data,Manufacturing_Lot == "Lot2")$PSI, mu = 1500)
+
+#Lot 3
+t.test(subset(Coil_data,Manufacturing_Lot == "Lot3")$PSI, mu = 1500)
+
+
+
+
+
