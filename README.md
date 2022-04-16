@@ -37,8 +37,11 @@ mpg_data =  (6.267)vehicle_length + (1.245e-03)vehicle_weight + (6.877e-02)spoil
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch.
 
 1. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
-* Looking at the total_summary 
+* Looking at the total_summary for all manufacturing lots, we can see that the variance is 62.29 and therefore does not excced 100 psi.
 
 ![total_summary_del2.png](https://github.com/LucyPill/MechaCar_Statistica_Analysis/blob/main/Images/total_summary_del2.png)
+
+### Now, let's take a look at the individual lots:
+
 
 ![lot_summary_del2.png](https://github.com/LucyPill/MechaCar_Statistica_Analysis/blob/main/Images/lot_summary_del2.png)
