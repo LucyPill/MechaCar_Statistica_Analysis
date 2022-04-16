@@ -48,7 +48,8 @@ As shown in the lot_summary, we can see that lots 1 & 2 meet the design specific
 
 ## Deliverable 3: T-Tests on Suspension Coils
 
-When looking at the combined stats for all the three lots, we can see that the p-value is 0.06028 and therefore we accept the null hypothesis and that means that there is no statistical difference between the psi of all lots and the population mean of 1500 psi.
+### All three lots:
+* When looking at the combined stats for all the three lots, we can see that the p-value is 0.06028 and therefore we accept the null hypothesis and that means that there is no statistical difference between the psi of all lots and the population mean of 1500 psi.
 
 ![three_lots_del3.png](https://github.com/LucyPill/MechaCar_Statistica_Analysis/blob/main/Images/three_lots_del3.png)
 
