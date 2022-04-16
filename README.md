@@ -81,6 +81,7 @@ Gas prices again reached a new peak, and in California the gallon of gas ranges 
 * Cars in the same vehicle category do not have the same fuel efficency
 
 ### Statistical Test:
-* one-way-ANOVA for both the MechaCar and for the competition. In this case, a one-way-ANOVA is a good statistical test because we areusing a single factor and that is the fuel efficiency and we are investigating its variation between MechaCar prototype and that of the competition
+* In this case, a one-way-ANOVA is a good statistical test because we are using a single factor and that is the fuel efficiency, and we are investigating its variation between MechaCar prototype and that of the competition
 
-What data is needed to run the statistical test?
+### Data Needed for Analysis:
+* The data needed for this analysis is fuel efficiency data from a large sample pupulation. Having a large sample population when doing analysis is very important beacuse it is difficult to stablish is there is a significant difference in a small sample population. 
