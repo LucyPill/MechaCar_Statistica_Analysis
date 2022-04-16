@@ -12,4 +12,9 @@ We will use R programing language to do this analysis and provide the following:
 
 Finally, we will use our critical thinking skills to propose our own study design, hypothesis, and analysis workflow in order to make AutosRUs manufacturing process better.
 
+## Deliverable 1: Linear Regression to Predict MPG
+The linear model that predicts the mpg of MechaCar prototypes using several variables if the following:
 
+mpg_data =  (6.267)vehicle_length + (0.00125)vehicle_weight + (0.0688)spoiler_angle + (3.546)ground_clearance + (-3.411)AWD - 104.0
+
+![linear_regression.png](https://github.com/LucyPill/MechaCar_Statistica_Analysis/blob/main/Images/linear_regression.png)
