@@ -22,7 +22,7 @@ mpg_data =  (6.267)vehicle_length + (1.245e-03)vehicle_weight + (6.877e-02)spoil
 
 ### Let's take a look at the summary statistics: 
 
-Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset? The two variables that provided a non-random amount of variance to the mpg were the vehicle_length and the ground_clearance
 
 Is the slope of the linear model considered to be zero? Why or why not?
 
