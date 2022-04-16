@@ -52,7 +52,9 @@ When looking at the combined stats for all the three lots, we can see that the p
 
 ![three_lots_del3.png](https://github.com/LucyPill/MechaCar_Statistica_Analysis/blob/main/Images/three_lots_del3.png)
 
-### Lot1: 
+### Lot#1:
+A p-value of 1 tells us that the null hypothesis is true which means that there is no statistical differende between the psi of lot#1 and the population mean of 1500 psi.
+
 ![t-test_lot1_del3.png](https://github.com/LucyPill/MechaCar_Statistica_Analysis/blob/main/Images/t-tes_lot1_del3.png)
 
 ![t-test_lot2_del3.png](https://github.com/LucyPill/MechaCar_Statistica_Analysis/blob/main/Images/t-test_lot2_del3.png)
