@@ -18,3 +18,8 @@ The linear model that predicts the mpg of MechaCar prototypes using several vari
 mpg_data =  (6.267)vehicle_length + (1.245e-03)vehicle_weight + (6.877e-02)spoiler_angle + (3.546)ground_clearance + (-3.411)AWD - 104.0
 
 ![linear_regression.png](https://github.com/LucyPill/MechaCar_Statistica_Analysis/blob/main/Images/linear_regression.png)
+
+
+Let's take a look at the summary statistics
+
+![lm_summary_stats.png](https://github.com/LucyPill/MechaCar_Statistica_Analysis/blob/main/Images/lm_summary_stats.png)
