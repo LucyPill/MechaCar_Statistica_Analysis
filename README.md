@@ -26,7 +26,8 @@ mpg_data =  (6.267)vehicle_length + (1.245e-03)vehicle_weight + (6.877e-02)spoil
 * The two variables that provided a non-random amount of variance to the mpg were the vehicle_length and the ground_clearance. These two variables as well as the slope are very significant in this model as we can see their p-values are very small.
 
 2. Is the slope of the linear model considered to be zero? Why or why not?
+* The is slope (m) is not considered to be zero beacuse the linear regression model 
 
-Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+3. Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
 ![lm_summary_stats.png](https://github.com/LucyPill/MechaCar_Statistica_Analysis/blob/main/Images/lm_summary_stats.png)
