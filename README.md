@@ -42,6 +42,6 @@ The design specifications for the MechaCar suspension coils dictate that the var
 ![total_summary_del2.png](https://github.com/LucyPill/MechaCar_Statistica_Analysis/blob/main/Images/total_summary_del2.png)
 
 ### Now, let's take a look at the individual lots:
-
+As shown in the lot_summary, we can see that lots 1 & 2 meet the design specifications with 0.98 and 7.47 respectively, whereas lot 3 has a variance of 170.28 exceeding the design especification by 1.7X
 
 ![lot_summary_del2.png](https://github.com/LucyPill/MechaCar_Statistica_Analysis/blob/main/Images/lot_summary_del2.png)
