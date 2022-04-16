@@ -1,5 +1,5 @@
 
-################# Deliverable 1: Linear Regression to Predict MPG #########################
+#################### Deliverable 1: Linear Regression to Predict MPG #########################
 
 # Use the library() function to load the dplyr package
 library(dplyr)
@@ -16,3 +16,16 @@ MechaCar_lm
 # Using the summary() function, determine the p-value and the r-squared value for the linear regression model.
 MechaCar_summary <- summary(MechaCar_lm)
 MechaCar_summary 
+
+#################### Deliverable 2: Create Visualizations for the Trip Analysis ################################
+
+# Import and read in the Suspension_Coil.csv file as a table
+Coil_data <- read.csv(file='/Users/lucypepe/Desktop/MechaCar_Statistica_Analysis/Suspension_Coil.csv',check.names=F,stringsAsFactors = F)
+
+# Creates a total_summary dataframe using the summarize() function to get the mean, median, variance, and standard deviation of the suspension coil’s PSI column
+total_summary <- Coil_data %>% summarize(Mean=mean(PSI),Medain=median(PSI),Variance = var(PSI), SD = sd(PSI),  .groups = 'keep')
+total_summary
+
+# Create a lot_summary dataframe using the group_by() and the summarize() functions to group each manufacturing lot by the mean, median, variance, and standard deviation of the suspension coil’s PSI column
+lot_summary <- Coil_data %>% group_by(Manufacturing_Lot) %>% summarize(Mean=mean(PSI),Medain=median(PSI),Variance = var(PSI), SD = sd(PSI),  .groups = 'keep')
+lot_summary
