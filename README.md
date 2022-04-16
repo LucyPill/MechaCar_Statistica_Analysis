@@ -29,5 +29,6 @@ mpg_data =  (6.267)vehicle_length + (1.245e-03)vehicle_weight + (6.877e-02)spoil
 * The slope (m) is not considered to be zero beacuse there is a significant relationship between some of independent variables (vehicle_length and the ground_clearance) the dependent variable.
 
 3. Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+* Yes, it does. This regression model efectively predict the mpg of MechaCar prototypes as it is indicated by the r-squared value of 0.7149. A r-squared of 1 would predict the model with a very high degree of certanty.
 
 ![lm_summary_stats.png](https://github.com/LucyPill/MechaCar_Statistica_Analysis/blob/main/Images/lm_summary_stats.png)
